@@ -1,8 +1,0 @@
-C:\Projects\CoreConsoleWithTwitter\TwitterStreaming\bin\Debug\netcoreapp3.1\TwitterStreaming.deps.json
-C:\Projects\CoreConsoleWithTwitter\TwitterStreaming\bin\Debug\netcoreapp3.1\TwitterStreaming.dll
-C:\Projects\CoreConsoleWithTwitter\TwitterStreaming\bin\Debug\netcoreapp3.1\TwitterStreaming.pdb
-C:\Projects\CoreConsoleWithTwitter\TwitterStreaming\obj\Debug\netcoreapp3.1\TwitterStreaming.AssemblyInfoInputs.cache
-C:\Projects\CoreConsoleWithTwitter\TwitterStreaming\obj\Debug\netcoreapp3.1\TwitterStreaming.AssemblyInfo.cs
-C:\Projects\CoreConsoleWithTwitter\TwitterStreaming\obj\Debug\netcoreapp3.1\TwitterStreaming.csproj.CoreCompileInputs.cache
-C:\Projects\CoreConsoleWithTwitter\TwitterStreaming\obj\Debug\netcoreapp3.1\TwitterStreaming.dll
-C:\Projects\CoreConsoleWithTwitter\TwitterStreaming\obj\Debug\netcoreapp3.1\TwitterStreaming.pdb
